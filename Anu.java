@@ -6,7 +6,7 @@
 }
 }
 
-class  Anusha{
+class  Anu{
   public static void main(String args[])
   {
     Mamma obj=new Mamma();
