@@ -6,14 +6,13 @@ System.out.println("Anusha");
 }
 }
 class Chemistry 
-{
 void Vali()
 {
 System.out.println("Vali");
 }
 }
-class Physics
-{ 
+class Physics 
+{
 void Mukesh()
 {
 System.out.println("Mukesh");
@@ -26,7 +25,7 @@ void Pujitha()
 System.out.println("Pujitha");
 }
 }
-class All
+class Eamcet
 {
 public static void main(String args[])
 {
