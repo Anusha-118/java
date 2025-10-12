@@ -1,4 +1,4 @@
-class Mani1{
+class Mymath1{
 
 
 public static void main(String args[]) {

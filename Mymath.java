@@ -1,8 +1,13 @@
-class DemoMath{
+class Mymath{
 
 
 public static void main(String args[]) {
     int a = 8;
     int b = 5;
 
-    System.out.println("min value is: " + Math.min(a, b));
+    int s= Math.min(a, b);
+    int d= Math.max(a,b);
+    System.out.println(s);
+    System.out.println(d);
+}
+}
