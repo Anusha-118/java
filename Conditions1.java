@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Conditions{
+class Conditions1{
   public static void main(String args[]){
     Scanner sc=new Scanner(System.in);
     System.out.println("enter marks:");
