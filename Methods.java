@@ -8,7 +8,9 @@ class Methods{
     // System.out.println("name is:"+ a.indexOf("s"));
     // System.out.println("name is: " + a.indexOf("s"));
     // System.out.println("name is: " + a.indexOf("s"));
-    // System.out.println("name is: " + a.charAt(3));
+    // System.out.println("name is: " + a.charAt(3));class Overload 
+  
+
  String a= "anusha";
  String b="Anusha";
  System.out.println(a.equals(b));
