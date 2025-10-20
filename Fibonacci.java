@@ -18,9 +18,11 @@ class Fibonacci{
     //   System.out.println(i+"number is:"+newnumber);
     //   i++;
          for(int i=3;i<=range;i++){
-          int newnumber=first +second;
+          int newnumber =first +second;;
           first=second;
           second=newnumber;
+        
+          
           System.out.println(i + "number is:" +newnumber);
          }
     }
