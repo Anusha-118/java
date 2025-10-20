@@ -10,14 +10,18 @@ class Fibonacci{
     System.out.println("first number is:"+first);
     System.out.println("Second number is:"+second);
 
-    int i=3;
-    while(i<=range){
-      int newnumber=first+second;
-      first=second;
-      second=newnumber;
-      System.out.println(i+"number is:"+newnumber);
-      i++;
-
+    // int i=3;
+    // while(i<=range){
+    //   int newnumber=first+second;
+    //   first=second;
+    //   second=newnumber;
+    //   System.out.println(i+"number is:"+newnumber);
+    //   i++;
+         for(int i=3;i<=range;i++){
+          int newnumber=first +second;
+          first=second;
+          second=newnumber;
+          System.out.println(i + "number is:" +newnumber);
+         }
     }
      }
-}
