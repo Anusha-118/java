@@ -17,6 +17,7 @@ class Count{
     number=number/10;
     count++;
     System.out.println(count);
+    
      } 
 
        
