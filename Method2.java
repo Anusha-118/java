@@ -2,6 +2,7 @@ public class Method2{
 public static void main(String args[]){
   details("sai");
 }
+
 public static void details(String name){
   System.out.println(name);
 }
