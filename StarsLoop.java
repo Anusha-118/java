@@ -7,7 +7,7 @@ public class StarsLoop {
             for (int c = 0; c < 4; c++) {
                 System.out.print('*');
             }
-          //  System.out.println();
+           System.out.println();
         }
     }
 }
