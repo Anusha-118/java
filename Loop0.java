@@ -11,7 +11,7 @@ class Loop0{
     {
         System.out.println("*");
     }
-    System.out.println();
+    System.out.println(\t);
 
   }
   
