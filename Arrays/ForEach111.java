@@ -1,4 +1,4 @@
-class ArrayDisplay1{
+class ForEach111{
     public static void main(String args[]){
         int [] marks=new int[5];
         marks[0]=88;
@@ -7,8 +7,8 @@ class ArrayDisplay1{
         marks[3]=94;
         marks[4]=91;
 
-         for(int i=0;i<marks.length;i++){
-            System.out.println(marks[i]git );
+         for(int x: marks){
+            System.out.println(marks[i]);
         }
     }
 }
