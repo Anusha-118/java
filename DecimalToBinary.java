@@ -1,4 +1,4 @@
-public class DecimalToBinary {
+public class DecimalToBinary  {
 public static void main(String[] args) {
 int num = 10;
 String binary = Integer.toBinaryString(num);
